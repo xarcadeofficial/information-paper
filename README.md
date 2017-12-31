@@ -1,6 +1,8 @@
+What is Xarcade?
+
 At present, gamers and game publishers face many challenges concerning the maintenance of their various in-game balances. These challenges include the two way exchange of their in-game credits, the transfer of the credits from one game to another, the requirement for linked credit cards for in- application purchases, accessibility to digital wallets such as through Google or iTunes, and excessive revenue sharing with digital wallet providers. To solve this issue, we are building Xarcade: a NEM blockchain powered exchange platform for video game in-game credits (the currency in a game), and functions as a “crypto” video game applications store (the Platform and its Services).The objective of Xarcade is to offer a new method of exchanging and handling in-game credits. The Platform is intended to allow video game publishers to maintain their own in-game credits on the NEM blockchain. This is made possible upon after the video game publisher downloads the Xarcade SDK from the platform and integrate it.
 
-The Platform enables users to exchange, purchase and transfer the in-game credits, which would be accessible from:
+The Xarcade platform enables users to exchange, purchase and transfer the in-game credits, which would be accessible from:
 
 (a)	The desktop.
 
