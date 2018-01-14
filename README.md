@@ -8,7 +8,9 @@ The Xarcade platform enables users to exchange, purchase and transfer the in-gam
 
 (b)	Mobile devices.
 
-(c)	An in-game browser window. The Platform facilitates the buying of in-game credits and in-game products with XAR, enabling users to purchase “outside” of the game.
+(c)	An in-game browser window.
+
+The Platform facilitates the buying of in-game credits and in-game products with XAR, enabling users to purchase “outside” of the game.
 
 The Platform supports game publishers to create an ecosystem of spending and earning by paying through a two-way exchange ability model, and circumvents the requirement of in-app purchases for game points, so that game publishers do not need to rely on payment solutions such as Google/Apple in-app payment solutions.
 
